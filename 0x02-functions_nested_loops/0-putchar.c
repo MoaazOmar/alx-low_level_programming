@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "main.h"
 
+void int_putchar(char c);
+
 int main(void)
 {
     char str[] = "_putchar";
